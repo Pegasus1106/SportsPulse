@@ -1,0 +1,500 @@
+College ,Rating,Course,Duration,City,State,Country,Average Fees,Acceptance Rate
+Indira Gandhi National Open University,3.88, Automation and Networking,2 Years,New Delhi,Delhi,India,57191.80328,71.92%
+Indian Maritime University,3.45, B. Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,68.48%
+ACME College of Engineering,3.2, B. Tech Civil Engineering,4 Years,Saunda,Uttar Pradesh,India,300000,47.04%
+ACME College of Engineering,3.2, B. Tech Computer Science and Engineering,4 Years,Saunda,Uttar Pradesh,India,300000,75.71%
+ACME College of Engineering,3.2, B. Tech Electrical and Electronics Engineering,4 Years,Saunda,Uttar Pradesh,India,300000,79.89%
+ACME College of Engineering,3.2, B. Tech Electronics and Communication Engineering,4 Years,Saunda,Uttar Pradesh,India,300000,57.09%
+ACME College of Engineering,3.2, B. Tech Information Technology,4 Years,Saunda,Uttar Pradesh,India,300000,88.02%
+Aarupadai Veedu Institute of Technology,2.47, B.Arch,4 Years,Karunguzhipallam,Tamil Nadu,India,234642.8571,64.35%
+Adhiyamaan College of Engineering,2.69, B.Arch,4 Years,Krishnagiri,Tamil Nadu,India,235437.5,57.96%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Arch,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,54.68%
+Indira Gandhi Institute of Technology,3.86, B.Arch,4 Years,Khalapal,Odisha,India,161636.3636,83.65%
+Adesh Institute of Technology,2.33, B.Com,3 Years,Gharuan,Punjab,India,273000,50.94%
+Abhilashi University,3.73, B.Com,3 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,45.17%
+Indira Gandhi National Open University,3.88, B.Com,3 Years,New Delhi,Delhi,India,57191.80328,57.02%
+Indira Gandhi National Open University,3.88, B.Com Accountancy and Finance Major,3 Years,New Delhi,Delhi,India,57191.80328,80.01%
+Indira Gandhi National Open University,3.88, B.Com Corporate Affairs and Administration Major,3 Years,New Delhi,Delhi,India,57191.80328,49.41%
+Indira Gandhi National Open University,3.88, B.Com Financial and Cost Accounting Major,3 Years,New Delhi,Delhi,India,57191.80328,88.76%
+Adamas University,3.03, B.Com Hons,3 Years,Kolkata,West Bengal,India,332156.25,63.92%
+Academy of Maritime Education and Training,2.53, B.Com Logistics and Computer Applications,3 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,48.38%
+Indian Institute of Technology Guwahati ,3.45, B.Des,4 Years,Guwahati,Assam,India,254171.9512,62.07%
+Adamas University,3.03, B.Ed,2 Years,Kolkata,West Bengal,India,332156.25,82.45%
+Indira Gandhi National Open University,3.88, B.Ed,2 Years,New Delhi,Delhi,India,57191.80328,76.41%
+Indira Gandhi National Open University,3.88, B.Lib.I.Sc,2 Years,New Delhi,Delhi,India,57191.80328,74.82%
+Adamas University,3.03, B.Pharma,2 Years,Kolkata,West Bengal,India,332156.25,59.94%
+Abhilashi University,3.73, B.Pharma Allotropy,2 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,67.03%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Agriculture,3 Years,Guntur,Andhra Pradesh,India,66596,51.03%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Agriculture,3 Years,Guntur,Andhra Pradesh,India,66596,47.33%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Agriculture,3 Years,Guntur,Andhra Pradesh,India,66596,88.14%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Agriculture,3 Years,Guntur,Andhra Pradesh,India,66596,80.58%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Agriculture Hons,3 Years,Guntur,Andhra Pradesh,India,66596,64.44%
+Indian Maritime University,3.45, B.Sc Applied Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,79.68%
+Abhilashi University,3.73, B.Sc B.Ed,3 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,53.66%
+Adamas University,3.03, B.Sc Biochemistry Major,3 Years,Kolkata,West Bengal,India,332156.25,88.52%
+Adamas University,3.03, B.Sc Biotechnology Hons,3 Years,Kolkata,West Bengal,India,332156.25,79.81%
+Adamas University,3.03, B.Sc Botany Hons,3 Years,Kolkata,West Bengal,India,332156.25,48.94%
+Adamas University,3.03, B.Sc Chemistry Hons,3 Years,Kolkata,West Bengal,India,332156.25,77.62%
+Acharya NG Ranga Agricultural University,3.62, B.Sc Community Science Hons,3 Years,Guntur,Andhra Pradesh,India,66596,61.93%
+Academy of Maritime Education and Training,2.53, B.Sc Data Science Hons,3 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,73.59%
+Adamas University,3.03, B.Sc Economics Hons,3 Years,Kolkata,West Bengal,India,332156.25,57.42%
+Adamas University,3.03, B.Sc Environmental Science Hons,3 Years,Kolkata,West Bengal,India,332156.25,76.52%
+Indira Gandhi National Open University,3.88, B.Sc General,3 Years,New Delhi,Delhi,India,57191.80328,45.99%
+Adamas University,3.03, B.Sc Geography Hons,3 Years,Kolkata,West Bengal,India,332156.25,62.86%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,69.46%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,65.35%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,67.20%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,57.92%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,48.07%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,81.84%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,54.85%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,79.49%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,69.68%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,69.36%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,76.89%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,69.45%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,51.70%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,87.27%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,51.94%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,65.37%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,50.13%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,69.35%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,85.61%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,68.07%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,83.51%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,51.24%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,55.67%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,65.60%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,81.24%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,49.93%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,85.40%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,65.58%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,53.10%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,54.81%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,58.06%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,67.90%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,66.93%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,86.38%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,57.06%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,57.48%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,49.66%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration,3 Years,New Delhi,Delhi,India,57191.80328,64.31%
+Indira Gandhi National Open University,3.88, B.Sc Hospitality and Hotel Administration Vegetarian Cuisine,3 Years,New Delhi,Delhi,India,57191.80328,75.53%
+Adamas University,3.03, B.Sc LLB Hons,3 Years,Kolkata,West Bengal,India,332156.25,82.83%
+Adamas University,3.03, B.Sc Mathematics Hons,3 Years,Kolkata,West Bengal,India,332156.25,84.44%
+Adamas University,3.03, B.Sc Microbiology Hons,3 Years,Kolkata,West Bengal,India,332156.25,70.27%
+Academy of Maritime Education and Training,2.53, B.Sc Nautical Science,3 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,52.88%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,45.29%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,71.42%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,58.71%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,47.15%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,58.30%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,78.46%
+Indian Maritime University,3.45, B.Sc Nautical Science,3 Years,Chennai,Tamil Nadu,India,597763.1579,45.57%
+Adamas University,3.03, B.Sc Physics Hons,3 Years,Kolkata,West Bengal,India,332156.25,46.82%
+Indira Gandhi National Open University,3.88, B.Sc Physics Major,3 Years,New Delhi,Delhi,India,57191.80328,84.14%
+Academy of Maritime Education and Training,2.53, B.Sc Robotics and Artificial Intelligence Hons,3 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,77.45%
+Indian Maritime University,3.18, B.Sc Ship Building and Repair,3 Years,Kochi,Kerala,India,443750,71.38%
+Indian Maritime University,3.45, B.Sc Ship Building and Repair,3 Years,Chennai,Tamil Nadu,India,597763.1579,77.63%
+Adamas University,3.03, B.Sc Statistics and Data Analytics Hons,3 Years,Kolkata,West Bengal,India,332156.25,71.38%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Aeronautical Engineering,4 Years,Ahmedabad,Gujarat,India,252000,62.56%
+ABR College of Engineering and Technology,3.07, B.Tech Agricultural Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,70.08%
+Aditya Engineering College,3.12, B.Tech Agricultural Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,70.08%
+ACN College of Engineering and Management Studies,3.17, B.Tech Agricultural Engineering,4 Years,Chherat,Uttar Pradesh,India,249333.3333,54.84%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Agricultural Engineering,4 Years,Guntur,Andhra Pradesh,India,66596,85.96%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Agricultural Engineering,4 Years,Guntur,Andhra Pradesh,India,66596,75.51%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Agricultural Engineering,4 Years,Guntur,Andhra Pradesh,India,66596,55.48%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Agricultural Engineering and Technology,4 Years,Guntur,Andhra Pradesh,India,66596,52.69%
+Indian Institute of Technology Mandi ,3.97, B.Tech and M.Tech Bioengineering Dual Degree,4 Years,Suran,Himachal Pradesh,India,353350,64.17%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Ceramic Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,58.86%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Civil Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,65.73%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Computer Science and Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,59.73%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech and M.Tech Computer Science and Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,85.79%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Engineering Physics,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,74.46%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Industrial Chemistry,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,54.74%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Materials Science and Technology,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,46.83%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Mathematics and Computing,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,87.95%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Mechanical Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,47.09%
+Indian Institute of Technology Ropar ,3.43, B.Tech and M.Tech Mechanical Engineering Dual Degree,4 Years,Rupnagar,Punjab,India,358525.4545,57.29%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Metallurgical Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,64.33%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Mining Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,80.76%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech and M.Tech Pharmacy Integrated,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,76.44%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech and MBA Mining Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,55.27%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Applied Electronics and Instrumentation Engineering,4 Years,Kalady,Kerala,India,279000,55.27%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Artificial Intelligence,4 Years,Hyderabad,Telangana,India,288884.5946,77.24%
+Aadishwar College of Technology,3.15, B.Tech Automobile Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,67.60%
+AD Patel Institute of Technology,3.96, B.Tech Automobile Engineering,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,81.55%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Biochemical Engineering and M.Tech Biochemical Engineering and Biotechnology,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,45.32%
+Indian Institute of Technology Jodhpur ,4.36, B.Tech Bioengineering,4 Years,Jodhpur,Rajasthan,India,503615.3846,70.37%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Bioengineering and M.Tech Biomedical Technology,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,64.52%
+Adhiyamaan College of Engineering,2.69, B.Tech Biotechnology,4 Years,Krishnagiri,Tamil Nadu,India,235437.5,60.64%
+Adamas University,3.03, B.Tech Biotechnology,4 Years,Kolkata,West Bengal,India,332156.25,60.64%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Biotechnology,4 Years,Guwahati,Assam,India,254171.9512,57.80%
+Indian Institute of Technology Jodhpur ,4.36, B.Tech Biotechnology,4 Years,Jodhpur,Rajasthan,India,503615.3846,47.16%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Ceramic Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,81.41%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Chemical Engineering,4 Years,Ahmedabad,Gujarat,India,252000,81.55%
+Indian Institute of Technology Tirupati ,2.48, B.Tech Chemical Engineering,4 Years,Tirupati,Andhra Pradesh,India,304338.2353,50.72%
+Adhiyamaan College of Engineering,2.69, B.Tech Chemical Engineering,4 Years,Krishnagiri,Tamil Nadu,India,235437.5,50.72%
+Aadishwar College of Technology,3.15, B.Tech Chemical Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,72.50%
+Adhiparasakthi Engineering College,3.2, B.Tech Chemical Engineering,4 Years,Kancheepuram,Tamil Nadu,India,160000,50.72%
+Indian Institute of Technology Patna ,3.24, B.Tech Chemical Engineering,4 Years,Patna,Bihar,India,322481.6667,77.31%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Chemical Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,60.49%
+Indian Institute of Technology Ropar ,3.43, B.Tech Chemical Engineering,4 Years,Rupnagar,Punjab,India,358525.4545,50.25%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Chemical Engineering,4 Years,Guwahati,Assam,India,254171.9512,88.86%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Chemical Engineering,4 Years,Gandhinagar,Gujarat,India,432550,68.12%
+Indian Institute of Technology Jammu ,3.81, B.Tech Chemical Engineering,4 Years,Jammu,Jammu and Kashmir,India,612000,76.01%
+Indira Gandhi Institute of Technology,3.86, B.Tech Chemical Engineering,4 Years,Khalapal,Odisha,India,161636.3636,64.60%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Chemical Engineering,4 Years,Hyderabad,Telangana,India,288884.5946,73.34%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Chemical Engineering with Second Major in Electrical Engineering,4 Years,Gandhinagar,Gujarat,India,432566,71.72%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Chemical Engineering with Second Major in Mechanical Engineering,4 Years,Gandhinagar,Gujarat,India,432567,76.28%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Chemical Science and Technology,4 Years,Guwahati,Assam,India,254171.9512,58.09%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Civil Engineering,4 Years,Ahmedabad,Gujarat,India,252000,58.09%
+Aditya College of Engineering,2.09, B.Tech Civil Engineering,4 Years,Madanapalle,Andhra Pradesh,India,140000,78.35%
+ACE Engineering College,2.11, B.Tech Civil Engineering,4 Years,Ghatkesar,Telangana,India,272000,78.35%
+Indian Institute of Technology Tirupati ,2.48, B.Tech Civil Engineering,4 Years,Tirupati,Andhra Pradesh,India,304338.2353,58.81%
+Aditya Institute of Technology and Management,2.49, B.Tech Civil Engineering,4 Years,K Kotturu,Andhra Pradesh,India,159875,58.09%
+ABSS Institute of Technology,2.57, B.Tech Civil Engineering,4 Years,Meerut,Uttar Pradesh,India,210692.3077,60.91%
+Accurate Institute of Management and Technology,2.6, B.Tech Civil Engineering,4 Years,Greater Noida,Uttar Pradesh,India,340300,68.96%
+Adarsh College of Engineering,2.7, B.Tech Civil Engineering,4 Years,Chebrolu,Andhra Pradesh,India,93318.18182,45.86%
+Adarsh Institute of Technology and Research Center,2.97, B.Tech Civil Engineering,4 Years,Khambale Bhalvani,Maharashtra,India,300200,83.54%
+Adamas University,3.03, B.Tech Civil Engineering,4 Years,Kolkata,West Bengal,India,332156.25,66.92%
+Aditya College of Engineering,3.05, B.Tech Civil Engineering,4 Years,Surampalem,Andhra Pradesh,India,150500,66.92%
+ACE College of Engineering,3.06, B.Tech Civil Engineering,4 Years,Thiruvananthapuram,Kerala,India,216000,58.00%
+Indian Institute of Technology Palakkad ,3.06, B.Tech Civil Engineering,4 Years,Palakkad,Kerala,India,825000,57.87%
+ABR College of Engineering and Technology,3.07, B.Tech Civil Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,50.31%
+Aditya Engineering College,3.12, B.Tech Civil Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,66.92%
+Aadishwar College of Technology,3.15, B.Tech Civil Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,51.70%
+A1 Global Institute of Engineering and Technology,3.21, B.Tech Civil Engineering,4 Years,Markapur Rural,Andhra Pradesh,India,113545.4545,65.65%
+Abhinav Hi-Tech College of Engineering,3.24, B.Tech Civil Engineering,4 Years,Hyderabad,Telangana,India,125153.8462,68.79%
+Indian Institute of Technology Patna ,3.24, B.Tech Civil Engineering,4 Years,Patna,Bihar,India,322481.6667,55.89%
+Indic Institute of Design and Research,3.24, B.Tech Civil Engineering,4 Years,Tarakai,Odisha,India,211142.8571,52.03%
+Aarushi Group of Institutions,3.28, B.Tech Civil Engineering,4 Years,Warangal,Telangana,India,234642.8571,64.20%
+Achariya College of Engineering Technology,3.3, B.Tech Civil Engineering,4 Years,Villianur,Puducherry,India,104285.7143,54.37%
+Indian Institute of Technology Indore ,3.34, B.Tech Civil Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,85.83%
+Adithya Institute of Technology,3.35, B.Tech Civil Engineering,4 Years,Kurumbapalayam,Tamil Nadu,India,145714.2857,63.40%
+Adesh Institute of Engineering and Technology,3.38, B.Tech Civil Engineering,4 Years,Faridkot,Punjab,India,227666.6667,68.10%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Civil Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,63.40%
+Indian Institute of Technology Ropar ,3.43, B.Tech Civil Engineering,4 Years,Rupnagar,Punjab,India,358525.4545,45.85%
+Abhay Memorial Trust Group of Institutions,3.45, B.Tech Civil Engineering,4 Years,Allahabad,Uttar Pradesh,India,161350,68.07%
+Adarsha College of Engineering,3.45, B.Tech Civil Engineering,4 Years,Angul,Odisha,India,132750,85.02%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Civil Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,66.91%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Civil Engineering,4 Years,Guwahati,Assam,India,254171.9512,53.89%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Civil Engineering,4 Years,Khammam,Telangana,India,118642.8571,48.71%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Civil Engineering,4 Years,Khammam,Telangana,India,118642.8571,56.17%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Civil Engineering,4 Years,Bhubaneshwar,Odisha,India,518128.2353,57.52%
+ABES Engineering College,3.52, B.Tech Civil Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,73.25%
+ABES Engineering College,3.52, B.Tech Civil Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,46.20%
+ABES Institute of Technology,3.52, B.Tech Civil Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,529000,82.84%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Civil Engineering,4 Years,Kalady,Kerala,India,279000,68.00%
+Abhilashi University,3.73, B.Tech Civil Engineering,4 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,54.82%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Civil Engineering,4 Years,Gandhinagar,Gujarat,India,432550,67.60%
+Indian Institute of Technology Jammu ,3.81, B.Tech Civil Engineering,4 Years,Jammu,Jammu and Kashmir,India,612000,68.00%
+AD Patel Institute of Technology,3.96, B.Tech Civil Engineering,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,77.87%
+Aditya College of Engineering and Technology,3.96, B.Tech Civil Engineering,4 Years,Surampalem,Andhra Pradesh,India,139500,63.40%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Civil Engineering,4 Years,Hyderabad,Telangana,India,288884.5946,75.55%
+Indian Institute of Technology Mandi ,3.97, B.Tech Civil Engineering,4 Years,Suran,Himachal Pradesh,India,353350,87.74%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Civil Engineering and M.Tech Environmental Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,53.61%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Civil Engineering and M.Tech Structural Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,76.68%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Civil Engineering and M.Tech Transportation Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,69.39%
+Accurate Institute of Management and Technology,2.6, B.Tech Civil Engineering II Shift,4 Years,Greater Noida,Uttar Pradesh,India,340300,78.15%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Computer Engineering,4 Years,Ahmedabad,Gujarat,India,252000,78.15%
+Aadishwar College of Technology,3.15, B.Tech Computer Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,84.42%
+ABES Engineering College,3.52, B.Tech Computer Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,55.95%
+ABES Engineering College,3.52, B.Tech Computer Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,64.72%
+AD Patel Institute of Technology,3.96, B.Tech Computer Engineering,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,60.43%
+ABES Engineering College,3.52, B.Tech Computer Engineering and Information Technology,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,62.33%
+ABES Engineering College,3.52, B.Tech Computer Engineering and Information Technology,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,75.31%
+ABES Engineering College,3.52, B.Tech Computer Science,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,88.85%
+ABES Engineering College,3.52, B.Tech Computer Science,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,58.84%
+Adesh Institute of Technology,2.33, B.Tech Computer Science and Engineering,4 Years,Gharuan,Punjab,India,273000,70.39%
+ABSS Institute of Technology,2.57, B.Tech Computer Science and Engineering,4 Years,Meerut,Uttar Pradesh,India,210692.3077,52.24%
+Accurate Institute of Management and Technology,2.6, B.Tech Computer Science and Engineering,4 Years,Greater Noida,Uttar Pradesh,India,340300,82.42%
+Adarsh College of Engineering,2.7, B.Tech Computer Science and Engineering,4 Years,Chebrolu,Andhra Pradesh,India,93318.18182,54.81%
+ACE College of Engineering and Management,2.74, B.Tech Computer Science and Engineering,4 Years,Agra,Uttar Pradesh,India,150666.6667,87.00%
+Indira Gandhi Delhi Technical University for Women,2.81, B.Tech Computer Science and Engineering,4 Years,New Delhi,Delhi,India,325363.6364,72.16%
+Adamas Institute of Technology,2.89, B.Tech Computer Science and Engineering,4 Years,Kolkata,West Bengal,India,313000,55.50%
+Adarsh Institute of Technology and Research Center,2.97, B.Tech Computer Science and Engineering,4 Years,Khambale Bhalvani,Maharashtra,India,300200,60.51%
+Aditya College of Engineering,3.05, B.Tech Computer Science and Engineering,4 Years,Surampalem,Andhra Pradesh,India,150500,78.15%
+ABR College of Engineering and Technology,3.07, B.Tech Computer Science and Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,77.65%
+Aditya Engineering College,3.12, B.Tech Computer Science and Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,78.15%
+ACN College of Engineering and Management Studies,3.17, B.Tech Computer Science and Engineering,4 Years,Chherat,Uttar Pradesh,India,249333.3333,72.01%
+Indira Gandhi Institute of Engineering and Technology,3.17, B.Tech Computer Science and Engineering,4 Years,Ernakulam,Kerala,India,230000,53.46%
+A1 Global Institute of Engineering and Technology,3.21, B.Tech Computer Science and Engineering,4 Years,Markapur Rural,Andhra Pradesh,India,113545.4545,64.28%
+Abhinav Hi-Tech College of Engineering,3.24, B.Tech Computer Science and Engineering,4 Years,Hyderabad,Telangana,India,125153.8462,53.62%
+Indic Institute of Design and Research,3.24, B.Tech Computer Science and Engineering,4 Years,Tarakai,Odisha,India,211142.8571,45.26%
+Aarushi Group of Institutions,3.28, B.Tech Computer Science and Engineering,4 Years,Warangal,Telangana,India,234642.8571,75.70%
+Achariya College of Engineering Technology,3.3, B.Tech Computer Science and Engineering,4 Years,Villianur,Puducherry,India,104285.7143,77.41%
+Adhunik College of Engineering,3.31, B.Tech Computer Science and Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,239000,78.15%
+Indian Institute of Technology Indore ,3.34, B.Tech Computer Science and Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,51.26%
+Adithya Institute of Technology,3.35, B.Tech Computer Science and Engineering,4 Years,Kurumbapalayam,Tamil Nadu,India,145714.2857,78.15%
+Indian Institute of Technology Ropar ,3.43, B.Tech Computer Science and Engineering,4 Years,Rupnagar,Punjab,India,358525.4545,51.30%
+Adarsha College of Engineering,3.45, B.Tech Computer Science and Engineering,4 Years,Angul,Odisha,India,132750,75.33%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Computer Science and Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,50.57%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Computer Science and Engineering,4 Years,Guwahati,Assam,India,254171.9512,85.82%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Computer Science and Engineering,4 Years,Khammam,Telangana,India,118642.8571,49.45%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Computer Science and Engineering,4 Years,Khammam,Telangana,India,118642.8571,52.06%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Computer Science and Engineering,4 Years,Bhubaneshwar,Odisha,India,518128.2353,58.44%
+Indian Institute of Technology Dharwad ,3.5, B.Tech Computer Science and Engineering,4 Years,Dharwad,Karnataka,India,542760,54.77%
+Abhilashi University,3.73, B.Tech Computer Science and Engineering,4 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,51.48%
+Indian Institute of Technology Goa ,3.73, B.Tech Computer Science and Engineering,4 Years,Ponda,Goa,India,501474.2857,62.10%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Computer Science and Engineering,4 Years,Gandhinagar,Gujarat,India,432550,87.31%
+Aditya College of Engineering and Technology,3.96, B.Tech Computer Science and Engineering,4 Years,Surampalem,Andhra Pradesh,India,139500,78.15%
+Accurate Institute of Management and Technology,2.6, B.Tech Computer Science and Engineering II Shift,4 Years,Greater Noida,Uttar Pradesh,India,340300,87.08%
+Academy of Technology,3.78, B.Tech Computer Science and Engineering Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,54.90%
+Abacus Institute of Engineering and Management,3.53, B.Tech Computer Science Engineering,4 Years,Hooghly,West Bengal,India,312000,49.08%
+AAR Mahaveer Engineering College,3.54, B.Tech Computer Science Engineering,4 Years,Hyderabad,Telangana,India,160000,58.59%
+Indira Gandhi Institute of Technology,3.86, B.Tech Computer Science Engineering Self Finance,4 Years,Khalapal,Odisha,India,161636.3636,67.92%
+Indian Institute of Technology Mandi ,3.97, B.Tech Data Science and Engineering,4 Years,Suran,Himachal Pradesh,India,353350,82.76%
+Aditya College of Engineering,2.09, B.Tech Electrical and Electronics Engineering,4 Years,Madanapalle,Andhra Pradesh,India,140000,78.15%
+ACE Engineering College,2.11, B.Tech Electrical and Electronics Engineering,4 Years,Ghatkesar,Telangana,India,272000,47.56%
+Aditya Institute of Technology and Management,2.49, B.Tech Electrical and Electronics Engineering,4 Years,K Kotturu,Andhra Pradesh,India,159875,70.16%
+Accurate Institute of Management and Technology,2.6, B.Tech Electrical and Electronics Engineering,4 Years,Greater Noida,Uttar Pradesh,India,340300,85.54%
+Adarsh College of Engineering,2.7, B.Tech Electrical and Electronics Engineering,4 Years,Chebrolu,Andhra Pradesh,India,93318.18182,61.35%
+Aditya College of Engineering,3.05, B.Tech Electrical and Electronics Engineering,4 Years,Surampalem,Andhra Pradesh,India,150500,70.16%
+ACE College of Engineering,3.06, B.Tech Electrical and Electronics Engineering,4 Years,Thiruvananthapuram,Kerala,India,216000,70.16%
+ABR College of Engineering and Technology,3.07, B.Tech Electrical and Electronics Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,77.28%
+Aditya Engineering College,3.12, B.Tech Electrical and Electronics Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,78.15%
+Aadishwar College of Technology,3.15, B.Tech Electrical and Electronics Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,52.90%
+Indira Gandhi Institute of Engineering and Technology,3.17, B.Tech Electrical and Electronics Engineering,4 Years,Ernakulam,Kerala,India,230000,86.95%
+A1 Global Institute of Engineering and Technology,3.21, B.Tech Electrical and Electronics Engineering,4 Years,Markapur Rural,Andhra Pradesh,India,113545.4545,84.59%
+Abhinav Hi-Tech College of Engineering,3.24, B.Tech Electrical and Electronics Engineering,4 Years,Hyderabad,Telangana,India,125153.8462,85.09%
+Indian Institute of Technology Patna ,3.24, B.Tech Electrical and Electronics Engineering,4 Years,Patna,Bihar,India,322481.6667,75.95%
+Indic Institute of Design and Research,3.24, B.Tech Electrical and Electronics Engineering,4 Years,Tarakai,Odisha,India,211142.8571,54.47%
+Aarushi Group of Institutions,3.28, B.Tech Electrical and Electronics Engineering,4 Years,Warangal,Telangana,India,234642.8571,57.98%
+Achariya College of Engineering Technology,3.3, B.Tech Electrical and Electronics Engineering,4 Years,Villianur,Puducherry,India,104285.7143,51.90%
+Adithya Institute of Technology,3.35, B.Tech Electrical and Electronics Engineering,4 Years,Kurumbapalayam,Tamil Nadu,India,145714.2857,70.16%
+Abhay Memorial Trust Group of Institutions,3.45, B.Tech Electrical and Electronics Engineering,4 Years,Allahabad,Uttar Pradesh,India,161350,59.16%
+Adarsha College of Engineering,3.45, B.Tech Electrical and Electronics Engineering,4 Years,Angul,Odisha,India,132750,48.35%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Electrical and Electronics Engineering,4 Years,Khammam,Telangana,India,118642.8571,53.70%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Electrical and Electronics Engineering,4 Years,Khammam,Telangana,India,118642.8571,76.17%
+ABES Engineering College,3.52, B.Tech Electrical and Electronics Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,47.62%
+ABES Engineering College,3.52, B.Tech Electrical and Electronics Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,62.32%
+AAR Mahaveer Engineering College,3.54, B.Tech Electrical and Electronics Engineering,4 Years,Hyderabad,Telangana,India,160000,55.31%
+Adarsh Shikshan Prasarak Mandal's KT Patil College of Engineering and Technology,3.54, B.Tech Electrical and Electronics Engineering,4 Years,Osmanabad,Maharashtra,India,82480,47.14%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Electrical and Electronics Engineering,4 Years,Kalady,Kerala,India,279000,73.02%
+Aditya College of Engineering and Technology,3.96, B.Tech Electrical and Electronics Engineering,4 Years,Surampalem,Andhra Pradesh,India,139500,73.02%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Electrical Engineering,4 Years,Ahmedabad,Gujarat,India,252000,70.16%
+Adesh Institute of Technology,2.33, B.Tech Electrical Engineering,4 Years,Gharuan,Punjab,India,273000,53.32%
+Indian Institute of Technology Tirupati ,2.48, B.Tech Electrical Engineering,4 Years,Tirupati,Andhra Pradesh,India,304338.2353,59.45%
+ABSS Institute of Technology,2.57, B.Tech Electrical Engineering,4 Years,Meerut,Uttar Pradesh,India,210692.3077,73.02%
+Adamas Institute of Technology,2.89, B.Tech Electrical Engineering,4 Years,Kolkata,West Bengal,India,313000,65.24%
+Adamas University,3.03, B.Tech Electrical Engineering,4 Years,Kolkata,West Bengal,India,332156.25,60.09%
+Indian Institute of Technology Palakkad ,3.06, B.Tech Electrical Engineering,4 Years,Palakkad,Kerala,India,825000,67.28%
+Aadishwar College of Technology,3.15, B.Tech Electrical Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,85.14%
+ACN College of Engineering and Management Studies,3.17, B.Tech Electrical Engineering,4 Years,Chherat,Uttar Pradesh,India,249333.3333,73.16%
+Indic Institute of Design and Research,3.24, B.Tech Electrical Engineering,4 Years,Tarakai,Odisha,India,211142.8571,66.75%
+Indian Institute of Technology Indore ,3.34, B.Tech Electrical Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,58.22%
+Adesh Institute of Engineering and Technology,3.38, B.Tech Electrical Engineering,4 Years,Faridkot,Punjab,India,227666.6667,66.01%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Electrical Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,69.43%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Electrical Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,80.79%
+Indian Institute of Technology Bhilai ,3.49, B.Tech Electrical Engineering,4 Years,Bhilai,Chhattisgarh,India,465500,62.98%
+Indian Institute of Technology Dharwad ,3.5, B.Tech Electrical Engineering,4 Years,Dharwad,Karnataka,India,542760,75.79%
+Abacus Institute of Engineering and Management,3.53, B.Tech Electrical Engineering,4 Years,Hooghly,West Bengal,India,312000,83.19%
+Indian Institute of Technology Goa ,3.73, B.Tech Electrical Engineering,4 Years,Ponda,Goa,India,501474.2857,50.54%
+Academy of Technology,3.78, B.Tech Electrical Engineering,4 Years,Hooghly,West Bengal,India,300461.5385,73.25%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Electrical Engineering,4 Years,Gandhinagar,Gujarat,India,432550,56.19%
+Indian Institute of Technology Jammu ,3.81, B.Tech Electrical Engineering,4 Years,Jammu,Jammu and Kashmir,India,612000,61.67%
+Indira Gandhi Institute of Technology,3.86, B.Tech Electrical Engineering,4 Years,Khalapal,Odisha,India,161636.3636,66.33%
+AD Patel Institute of Technology,3.96, B.Tech Electrical Engineering,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,65.15%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Electrical Engineering,4 Years,Hyderabad,Telangana,India,288884.5946,52.23%
+Indian Institute of Technology Mandi ,3.97, B.Tech Electrical Engineering,4 Years,Suran,Himachal Pradesh,India,353350,52.97%
+Indian Institute of Technology Jodhpur ,4.36, B.Tech Electrical Engineering,4 Years,Jodhpur,Rajasthan,India,503615.3846,80.07%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Electrical Engineering and M.Tech Power Electronics,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,87.11%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Electrical Engineering and M.Tech Power Electronics and Drives Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,67.29%
+Academy of Technology,3.78, B.Tech Electrical Engineering Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,46.47%
+Indian Institute of Technology Indore ,3.34, B.Tech Electrical Engineering with M.Tech Communication and Signal Processing,4 Years,Simrol,Madhya Pradesh,India,326473.6842,49.51%
+Indian Institute of Technology Indore ,3.34, B.Tech Electrical Engineering with M.Tech VLSI Design and Nanoelectronics,4 Years,Simrol,Madhya Pradesh,India,326473.6842,82.41%
+Aditya College of Engineering,2.09, B.Tech Electronics and Communication Engineering,4 Years,Madanapalle,Andhra Pradesh,India,140000,51.35%
+ACE Engineering College,2.11, B.Tech Electronics and Communication Engineering,4 Years,Ghatkesar,Telangana,India,272000,81.81%
+Adesh Institute of Technology,2.33, B.Tech Electronics and Communication Engineering,4 Years,Gharuan,Punjab,India,273000,51.35%
+Aditya Institute of Technology and Management,2.49, B.Tech Electronics and Communication Engineering,4 Years,K Kotturu,Andhra Pradesh,India,159875,51.35%
+ABSS Institute of Technology,2.57, B.Tech Electronics and Communication Engineering,4 Years,Meerut,Uttar Pradesh,India,210692.3077,65.41%
+Accurate Institute of Management and Technology,2.6, B.Tech Electronics and Communication Engineering,4 Years,Greater Noida,Uttar Pradesh,India,340300,46.97%
+Adarsh College of Engineering,2.7, B.Tech Electronics and Communication Engineering,4 Years,Chebrolu,Andhra Pradesh,India,93318.18182,51.02%
+ACE College of Engineering and Management,2.74, B.Tech Electronics and Communication Engineering,4 Years,Agra,Uttar Pradesh,India,150666.6667,50.83%
+Indira Gandhi Delhi Technical University for Women,2.81, B.Tech Electronics and Communication Engineering,4 Years,New Delhi,Delhi,India,325363.6364,83.38%
+Adamas Institute of Technology,2.89, B.Tech Electronics and Communication Engineering,4 Years,Kolkata,West Bengal,India,313000,68.73%
+Adamas University,3.03, B.Tech Electronics and Communication Engineering,4 Years,Kolkata,West Bengal,India,332156.25,54.61%
+ACE College of Engineering,3.06, B.Tech Electronics and Communication Engineering,4 Years,Thiruvananthapuram,Kerala,India,216000,75.18%
+ABR College of Engineering and Technology,3.07, B.Tech Electronics and Communication Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,61.88%
+Aadishwar College of Technology,3.15, B.Tech Electronics and Communication Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,52.77%
+Indira Gandhi Institute of Engineering and Technology,3.17, B.Tech Electronics and Communication Engineering,4 Years,Ernakulam,Kerala,India,230000,77.90%
+Abhinav Hi-Tech College of Engineering,3.24, B.Tech Electronics and Communication Engineering,4 Years,Hyderabad,Telangana,India,125153.8462,73.70%
+Indic Institute of Design and Research,3.24, B.Tech Electronics and Communication Engineering,4 Years,Tarakai,Odisha,India,211142.8571,53.39%
+Aarushi Group of Institutions,3.28, B.Tech Electronics and Communication Engineering,4 Years,Warangal,Telangana,India,234642.8571,51.74%
+Achariya College of Engineering Technology,3.3, B.Tech Electronics and Communication Engineering,4 Years,Villianur,Puducherry,India,104285.7143,63.57%
+Adhunik College of Engineering,3.31, B.Tech Electronics and Communication Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,239000,51.74%
+Adithya Institute of Technology,3.35, B.Tech Electronics and Communication Engineering,4 Years,Kurumbapalayam,Tamil Nadu,India,145714.2857,51.74%
+Adesh Institute of Engineering and Technology,3.38, B.Tech Electronics and Communication Engineering,4 Years,Faridkot,Punjab,India,227666.6667,50.87%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Electronics and Communication Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,48.45%
+Abhay Memorial Trust Group of Institutions,3.45, B.Tech Electronics and Communication Engineering,4 Years,Allahabad,Uttar Pradesh,India,161350,53.26%
+Adarsha College of Engineering,3.45, B.Tech Electronics and Communication Engineering,4 Years,Angul,Odisha,India,132750,63.92%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Electronics and Communication Engineering,4 Years,Guwahati,Assam,India,254171.9512,78.66%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Electronics and Communication Engineering,4 Years,Khammam,Telangana,India,118642.8571,71.69%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Electronics and Communication Engineering,4 Years,Khammam,Telangana,India,118642.8571,80.82%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Electronics and Communication Engineering,4 Years,Bhubaneshwar,Odisha,India,518128.2353,60.19%
+ABES Engineering College,3.52, B.Tech Electronics and Communication Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,70.37%
+ABES Engineering College,3.52, B.Tech Electronics and Communication Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,82.13%
+ABES Institute of Technology,3.52, B.Tech Electronics and Communication Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,529000,67.07%
+Abacus Institute of Engineering and Management,3.53, B.Tech Electronics and Communication Engineering,4 Years,Hooghly,West Bengal,India,312000,64.86%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Electronics and Communication Engineering,4 Years,Kalady,Kerala,India,279000,66.00%
+Academy of Technology,3.78, B.Tech Electronics and Communication Engineering,4 Years,Hooghly,West Bengal,India,300461.5385,81.46%
+AD Patel Institute of Technology,3.96, B.Tech Electronics and Communication Engineering,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,82.11%
+Academy of Technology,3.78, B.Tech Electronics and Communication Engineering Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,77.55%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Electronics and Electrical Engineering,4 Years,Guwahati,Assam,India,254171.9512,80.92%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Electronics and Instrumentation Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,66.00%
+Academy of Technology,3.78, B.Tech Electronics and Instrumentation Engineering,4 Years,Hooghly,West Bengal,India,300461.5385,83.20%
+Academy of Technology,3.78, B.Tech Electronics and Instrumentation Engineering Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,87.72%
+Adarsh Institute of Technology and Research Center,2.97, B.Tech Electronics and Telecommunication Engineering,4 Years,Khambale Bhalvani,Maharashtra,India,300200,78.92%
+Indira Gandhi Institute of Technology,3.86, B.Tech Electronics and Telecommunication Engineering Self Finance,4 Years,Khalapal,Odisha,India,161636.3636,67.03%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Electronics Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,45.32%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Engineering Physics,4 Years,Dhanbad,Jharkhand,India,265595.7447,62.85%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Engineering Physics,4 Years,Guwahati,Assam,India,254171.9512,84.01%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Engineering Physics,4 Years,Hyderabad,Telangana,India,288884.5946,59.32%
+Indian Institute of Technology Mandi ,3.97, B.Tech Engineering Physics,4 Years,Suran,Himachal Pradesh,India,353350,59.01%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Engineering Science,4 Years,Hyderabad,Telangana,India,288884.5946,55.06%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Environmental Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,76.25%
+Academy of Maritime Education and Training,2.53, B.Tech Food Processing Technology,4 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,50.73%
+AD Patel Institute of Technology,3.96, B.Tech Food Processing Technology,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,65.51%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Food Science and Engineering,4 Years,Guntur,Andhra Pradesh,India,66596,45.98%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Food Technology,4 Years,Guntur,Andhra Pradesh,India,66596,86.80%
+Acharya NG Ranga Agricultural University,3.62, B.Tech Food Technology,4 Years,Guntur,Andhra Pradesh,India,66596,79.34%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Information Technology,4 Years,Ahmedabad,Gujarat,India,252000,86.80%
+ACE Engineering College,2.11, B.Tech Information Technology,4 Years,Ghatkesar,Telangana,India,272000,86.82%
+Aditya Institute of Technology and Management,2.49, B.Tech Information Technology,4 Years,K Kotturu,Andhra Pradesh,India,159875,66.00%
+Accurate Institute of Management and Technology,2.6, B.Tech Information Technology,4 Years,Greater Noida,Uttar Pradesh,India,340300,60.80%
+Adhiyamaan College of Engineering,2.69, B.Tech Information Technology,4 Years,Krishnagiri,Tamil Nadu,India,235437.5,86.80%
+Indira Gandhi Delhi Technical University for Women,2.81, B.Tech Information Technology,4 Years,New Delhi,Delhi,India,325363.6364,53.80%
+Adamas Institute of Technology,2.89, B.Tech Information Technology,4 Years,Kolkata,West Bengal,India,313000,56.72%
+Aditya Engineering College,3.12, B.Tech Information Technology,4 Years,Surampalem,Andhra Pradesh,India,163440,58.61%
+Aadishwar College of Technology,3.15, B.Tech Information Technology,4 Years,Bhoyan Rathod,Gujarat,India,263500,58.91%
+Adhiparasakthi College of Engineering,3.15, B.Tech Information Technology,4 Years,Paradharami,Tamil Nadu,India,145714.2857,58.61%
+Adhiparasakthi Engineering College,3.2, B.Tech Information Technology,4 Years,Kancheepuram,Tamil Nadu,India,160000,58.61%
+Adithya Institute of Technology,3.35, B.Tech Information Technology,4 Years,Kurumbapalayam,Tamil Nadu,India,145714.2857,58.61%
+Abhay Memorial Trust Group of Institutions,3.45, B.Tech Information Technology,4 Years,Allahabad,Uttar Pradesh,India,161350,61.89%
+ABES Engineering College,3.52, B.Tech Information Technology,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,58.61%
+ABES Engineering College,3.52, B.Tech Information Technology,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,68.12%
+ABES Institute of Technology,3.52, B.Tech Information Technology,4 Years,Ghaziabad,Uttar Pradesh,India,529000,54.17%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Information Technology,4 Years,Kalady,Kerala,India,279000,77.47%
+Academy of Technology,3.78, B.Tech Information Technology,4 Years,Hooghly,West Bengal,India,300461.5385,61.78%
+AD Patel Institute of Technology,3.96, B.Tech Information Technology,4 Years,Vitthal Udyognagar INA,Gujarat,India,384727.2727,77.47%
+Aditya College of Engineering and Technology,3.96, B.Tech Information Technology,4 Years,Surampalem,Andhra Pradesh,India,139500,77.47%
+Academy of Technology,3.78, B.Tech Information Technology Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,64.75%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,64.59%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,80.42%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,59.17%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,56.20%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,64.61%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,59.33%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,76.51%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,55.12%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,72.40%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,64.66%
+Indian Maritime University,3.45, B.Tech Marine Engineering,4 Years,Chennai,Tamil Nadu,India,597763.1579,70.51%
+Indian Maritime University,3.45, B.Tech Marine Engineering Lateral Entry,4 Years,Chennai,Tamil Nadu,India,597763.1579,62.74%
+Indian Maritime University,3.45, B.Tech Marine Engineering Lateral Entry,4 Years,Chennai,Tamil Nadu,India,597763.1579,79.28%
+Indian Maritime University,3.45, B.Tech Marine Engineering Lateral Entry,4 Years,Chennai,Tamil Nadu,India,597763.1579,84.86%
+Indian Maritime University,3.45, B.Tech Marine Engineering Lateral Entry,4 Years,Chennai,Tamil Nadu,India,597763.1579,69.51%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Materials Science and Engineering,4 Years,Gandhinagar,Gujarat,India,432551,87.01%
+Indian Institute of Technology Jammu ,3.81, B.Tech Materials Science and Engineering,4 Years,Jammu,Jammu and Kashmir,India,612000,56.27%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Materials Science and Metallurgical Engineering,4 Years,Hyderabad,Telangana,India,288884.5946,70.59%
+Indian Institute of Technology Ropar ,3.43, B.Tech Mathematics and Computing,4 Years,Rupnagar,Punjab,India,358525.4545,56.45%
+Indian Institute of Technology Guwahati ,3.45, B.Tech Mathematics and Computing,4 Years,Guwahati,Assam,India,254171.9512,69.08%
+Indian Institute of Technology Goa ,3.73, B.Tech Mathematics and Computing,4 Years,Ponda,Goa,India,501474.2857,75.11%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Mathematics and Computing,4 Years,Hyderabad,Telangana,India,288884.5946,71.49%
+Indira Gandhi Delhi Technical University for Women,2.81, B.Tech Mechanical and Automation Engineering,4 Years,New Delhi,Delhi,India,325363.6364,64.45%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Mechanical Engineering,4 Years,Ahmedabad,Gujarat,India,252000,68.40%
+Aditya College of Engineering,2.09, B.Tech Mechanical Engineering,4 Years,Madanapalle,Andhra Pradesh,India,140000,58.77%
+ACE Engineering College,2.11, B.Tech Mechanical Engineering,4 Years,Ghatkesar,Telangana,India,272000,58.77%
+Adesh Institute of Technology,2.33, B.Tech Mechanical Engineering,4 Years,Gharuan,Punjab,India,273000,68.40%
+Indian Institute of Technology Tirupati ,2.48, B.Tech Mechanical Engineering,4 Years,Tirupati,Andhra Pradesh,India,304338.2353,74.63%
+Aditya Institute of Technology and Management,2.49, B.Tech Mechanical Engineering,4 Years,K Kotturu,Andhra Pradesh,India,159875,68.40%
+ABSS Institute of Technology,2.57, B.Tech Mechanical Engineering,4 Years,Meerut,Uttar Pradesh,India,210692.3077,65.69%
+Accurate Institute of Management and Technology,2.6, B.Tech Mechanical Engineering,4 Years,Greater Noida,Uttar Pradesh,India,340300,58.37%
+Adarsh College of Engineering,2.7, B.Tech Mechanical Engineering,4 Years,Chebrolu,Andhra Pradesh,India,93318.18182,81.56%
+ACE College of Engineering and Management,2.74, B.Tech Mechanical Engineering,4 Years,Agra,Uttar Pradesh,India,150666.6667,62.65%
+Adamas Institute of Technology,2.89, B.Tech Mechanical Engineering,4 Years,Kolkata,West Bengal,India,313000,63.73%
+Adamas University,3.03, B.Tech Mechanical Engineering,4 Years,Kolkata,West Bengal,India,332156.25,58.17%
+Aditya College of Engineering,3.05, B.Tech Mechanical Engineering,4 Years,Surampalem,Andhra Pradesh,India,150500,66.43%
+ACE College of Engineering,3.06, B.Tech Mechanical Engineering,4 Years,Thiruvananthapuram,Kerala,India,216000,78.62%
+Indian Institute of Technology Palakkad ,3.06, B.Tech Mechanical Engineering,4 Years,Palakkad,Kerala,India,825000,66.43%
+ABR College of Engineering and Technology,3.07, B.Tech Mechanical Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,54.87%
+Aditya Engineering College,3.12, B.Tech Mechanical Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,76.30%
+Aadishwar College of Technology,3.15, B.Tech Mechanical Engineering,4 Years,Bhoyan Rathod,Gujarat,India,263500,56.83%
+ACN College of Engineering and Management Studies,3.17, B.Tech Mechanical Engineering,4 Years,Chherat,Uttar Pradesh,India,249333.3333,76.30%
+A1 Global Institute of Engineering and Technology,3.21, B.Tech Mechanical Engineering,4 Years,Markapur Rural,Andhra Pradesh,India,113545.4545,49.97%
+Indian Institute of Technology Patna ,3.24, B.Tech Mechanical Engineering,4 Years,Patna,Bihar,India,322481.6667,52.65%
+Adhunik College of Engineering,3.31, B.Tech Mechanical Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,239000,55.45%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Mechanical Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,45.55%
+Indian Institute of Technology Ropar ,3.43, B.Tech Mechanical Engineering,4 Years,Rupnagar,Punjab,India,358525.4545,86.14%
+Abhay Memorial Trust Group of Institutions,3.45, B.Tech Mechanical Engineering,4 Years,Allahabad,Uttar Pradesh,India,161350,52.95%
+Adarsha College of Engineering,3.45, B.Tech Mechanical Engineering,4 Years,Angul,Odisha,India,132750,55.45%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Mechanical Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,76.51%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Mechanical Engineering,4 Years,Khammam,Telangana,India,118642.8571,48.73%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Mechanical Engineering,4 Years,Khammam,Telangana,India,118642.8571,84.65%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Mechanical Engineering,4 Years,Bhubaneshwar,Odisha,India,518128.2353,73.22%
+Indian Institute of Technology Bhilai ,3.49, B.Tech Mechanical Engineering,4 Years,Bhilai,Chhattisgarh,India,465500,62.02%
+ABES Engineering College,3.52, B.Tech Mechanical Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,81.62%
+ABES Engineering College,3.52, B.Tech Mechanical Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,356857.1429,54.60%
+ABES Institute of Technology,3.52, B.Tech Mechanical Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,529000,64.02%
+Abacus Institute of Engineering and Management,3.53, B.Tech Mechanical Engineering,4 Years,Hooghly,West Bengal,India,312000,51.85%
+AAR Mahaveer Engineering College,3.54, B.Tech Mechanical Engineering,4 Years,Hyderabad,Telangana,India,160000,55.80%
+Adarsh Shikshan Prasarak Mandal's KT Patil College of Engineering and Technology,3.54, B.Tech Mechanical Engineering,4 Years,Osmanabad,Maharashtra,India,82480,59.80%
+Adi Shankara Institute of Engineering and Technology,3.65, B.Tech Mechanical Engineering,4 Years,Kalady,Kerala,India,279000,59.80%
+Academy of Technology,3.78, B.Tech Mechanical Engineering,4 Years,Hooghly,West Bengal,India,300461.5385,80.39%
+Indian Institute of Technology Gandhinagar ,3.78, B.Tech Mechanical Engineering,4 Years,Gandhinagar,Gujarat,India,432550,54.47%
+Indian Institute of Technology Jammu ,3.81, B.Tech Mechanical Engineering,4 Years,Jammu,Jammu and Kashmir,India,612000,66.69%
+Indira Gandhi Institute of Technology,3.86, B.Tech Mechanical Engineering,4 Years,Khalapal,Odisha,India,161636.3636,65.25%
+Aditya College of Engineering and Technology,3.96, B.Tech Mechanical Engineering,4 Years,Surampalem,Andhra Pradesh,India,139500,59.80%
+Indian Institute of Technology Hyderabad ,3.96, B.Tech Mechanical Engineering,4 Years,Hyderabad,Telangana,India,288884.5946,82.50%
+Indian Institute of Technology Mandi ,3.97, B.Tech Mechanical Engineering,4 Years,Suran,Himachal Pradesh,India,353350,77.05%
+Indian Institute of Technology Jodhpur ,4.36, B.Tech Mechanical Engineering,4 Years,Jodhpur,Rajasthan,India,503615.3846,59.62%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Mechanical Engineering and M.Tech Manufacturing Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,73.72%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Mechanical Engineering and M.Tech Mechanical System Design Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,52.64%
+Indian Institute of Technology Indore ,3.34, B.Tech Mechanical Engineering and M.Tech Mechanical Systems Design,4 Years,Simrol,Madhya Pradesh,India,326473.6842,85.26%
+Indian Institute of Technology Indore ,3.34, B.Tech Mechanical Engineering and M.Tech Production and Industrial Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,53.15%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Mechanical Engineering and M.Tech Thermal Science and Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,48.42%
+Aditya Silver Oak Institute of Technology,2.03, B.Tech Mechanical Engineering II Shift,4 Years,Ahmedabad,Gujarat,India,252000,59.80%
+Accurate Institute of Management and Technology,2.6, B.Tech Mechanical Engineering II Shift,4 Years,Greater Noida,Uttar Pradesh,India,340300,60.54%
+Aadishwar College of Technology,3.15, B.Tech Mechanical Engineering II Shift,4 Years,Bhoyan Rathod,Gujarat,India,263500,82.78%
+Adarsh Institute of Technology and Research Center,2.97, B.Tech Mechanical Engineering Lateral Entry,4 Years,Khambale Bhalvani,Maharashtra,India,300200,52.20%
+Academy of Technology,3.78, B.Tech Mechanical Engineering Lateral Entry,4 Years,Hooghly,West Bengal,India,300461.5385,67.36%
+Adhunik College of Engineering,3.31, B.Tech Mechanical Production Engineering,4 Years,Ghaziabad,Uttar Pradesh,India,239000,59.80%
+Indian Institute of Technology Patna ,3.24, B.Tech Metallurgical and Materials Engineering,4 Years,Patna,Bihar,India,322481.6667,79.68%
+Indian Institute of Technology Ropar ,3.43, B.Tech Metallurgical and Materials Engineering,4 Years,Rupnagar,Punjab,India,358525.4545,87.94%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Metallurgical and Materials Engineering,4 Years,Bhubaneshwar,Odisha,India,518128.2353,48.64%
+Indira Gandhi Institute of Technology,3.86, B.Tech Metallurgical and Materials Engineering,4 Years,Khalapal,Odisha,India,161636.3636,56.61%
+Indian Institute of Technology Bhubaneswar ,3.48, B.Tech Metallurgical and Materials Engineering and M.Tech Materials Science and Engineering Dual Degree,4 Years,Bhubaneshwar,Odisha,India,518128.2353,83.19%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Metallurgical Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,86.58%
+Indian Institute of Technology Indore ,3.34, B.Tech Metallurgy Engineering and Materials Science,4 Years,Simrol,Madhya Pradesh,India,326473.6842,63.70%
+Indian Institute of Technology Indore ,3.34, B.Tech Metallurgy Engineering and Materials Science and M.Tech Materials Science and Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,80.15%
+Indian Institute of Technology Indore ,3.34, B.Tech Metallurgy Engineering and Materials Science and M.Tech Metallurgy Engineering,4 Years,Simrol,Madhya Pradesh,India,326473.6842,82.67%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Mineral Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,59.61%
+ABR College of Engineering and Technology,3.07, B.Tech Mining Engineering,4 Years,Somanapalle,Andhra Pradesh,India,112340,77.97%
+Aditya Engineering College,3.12, B.Tech Mining Engineering,4 Years,Surampalem,Andhra Pradesh,India,163440,59.80%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Mining Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,60.83%
+Adarsha College of Engineering,3.45, B.Tech Mining Engineering,4 Years,Angul,Odisha,India,132750,67.56%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Mining Engineering,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,79.96%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Mining Engineering,4 Years,Khammam,Telangana,India,118642.8571,49.83%
+Abdulkalam Institute of Technological Sciences,3.48, B.Tech Mining Engineering,4 Years,Khammam,Telangana,India,118642.8571,47.67%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Mining Machinery Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,62.35%
+Indian Institute of Technology Indian School of Mines Dhanbad ,3.43, B.Tech Petroleum Engineering,4 Years,Dhanbad,Jharkhand,India,265595.7447,59.97%
+Aditya College of Engineering,3.05, B.Tech Petroleum Technology,4 Years,Surampalem,Andhra Pradesh,India,150500,76.28%
+Aditya Engineering College,3.12, B.Tech Petroleum Technology,4 Years,Surampalem,Andhra Pradesh,India,163440,59.80%
+Indian Institute of Technology Banaras Hindu University Varanasi ,3.45, B.Tech Pharmacy,4 Years,Varanasi,Uttar Pradesh,India,445083.0189,46.59%
+Indira Gandhi Institute of Technology,3.86, B.Tech Production Engineering,4 Years,Khalapal,Odisha,India,161636.3636,46.96%
+Academy of Maritime Education and Training,2.53, B.Voc Banking Finance Services and Insurance,2 Years,Kanathur Reddikuppam,Tamil Nadu,India,600000,59.14%
+Abhilashi University,3.73, BA,2 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,76.28%
+Indira Gandhi National Open University,3.88, BA,2 Years,New Delhi,Delhi,India,57191.80328,46.90%
+Abhilashi University,3.73, BA B.Ed,2 Years,Chail-Chowk,Himachal Pradesh,India,251833.3333,77.56%
+Adamas University,3.03, BA Bengali,2 Years,Kolkata,West Bengal,India,332156.25,57.57%
+Indira Gandhi National Open University,3.88, BA Culinary Arts Hons,2 Years,New Delhi,Delhi,India,57191.80328,79.80%
+Adamas University,3.03, BA Economics Hons,2 Years,Kolkata,West Bengal,India,332156.25,83.55%
+Adamas University,3.03, BA Education Hons,2 Years,Kolkata,West Bengal,India,332156.25,57.74%
+Adamas University,3.03, BA English Hons,2 Years,Kolkata,West Bengal,India,332156.25,68.75%
+Indira Gandhi National Open University,3.88, BA English Major,2 Years,New Delhi,Delhi,India,57191.80328,52.15%
+Indira Gandhi National Open University,3.88, BA Hindi Major,2 Years,New Delhi,Delhi,India,57191.80328,45.77%
+Adamas University,3.03, BA History,2 Years,Kolkata,West Bengal,India,332156.25,51.47%
+Indira Gandhi National Open University,3.88, BA Hotel Management Hons,3 Years,New Delhi,Delhi,India,57191.80328,71.78%
+Adamas University,3.03, BA International Relations Hons,2 Years,Kolkata,West Bengal,India,332156.25,48.36%
+Adamas University,3.03, BA Journalism and Mass Communication,2 Years,Kolkata,West Bengal,India,332156.25,56.21%

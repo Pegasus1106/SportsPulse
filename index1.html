@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="192x192" href="./favicon/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="./favicon/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <link rel="manifest" href="./favicon/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>SportsPulse | Home</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "./index1.html";
+                }
+            </script>
+            <div class="options">
+                <a href="./index1.html" class="current">Home</a>
+                <a href="http://localhost/sports/login%20system/login_form.php">About</a>
+                <a href="http://localhost/sports/login%20system/login_form.php">Kabaddi</a>
+                <a href="http://localhost/sports/login%20system/login_form.php">IPL</a>
+                <a href="http://localhost/sports/login%20system/login_form.php">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="http://localhost/sports/login%20system/login_form.php">Olympics</a>
+                        <a href="http://localhost/sports/login%20system/login_form.php">Athletics</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="auth-buttons">
+                <button class="login-button" onclick="redirectToLogin()">Login</button>
+                <button class="signup-button" onclick="redirectToSignup()">Sign Up</button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="showcase">
+        <div class="container">
+            <div class="text-content">
+                <p class="sports-category">sports</p>
+                <h1>Sports News Hub</h1>
+                <p>
+                    Get all the latest sports news in one-click
+                </p>
+                <a href="http://localhost/sports/login%20system/login_form.php">All News</a>
+                <a href="http://localhost/sports/login%20system/login_form.php">Add News</a>
+            </div>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <h1 class="editor-h1">Editor Picks</h1>
+            <div class="articles">
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/National.jpg" alt="" />
+                    <article>
+                        <p class="athletics-category">Athletics</p>
+                        <h1>Anas, Vithya, Poovamma and Nirmal shine in inaugural National Open Relay Carnival</h1>
+                        <p>
+                            National Camp A teams dominated the races in men's and women's sections to clinch the gold medals, while Anas, Vithya, Poovamma and Nirmal combined to top the mixed relay event.
+                        </p>
+                    </article>
+                </a>
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/Pkl.jpg" alt="" />
+                    <article>
+                        <p class="kabaddi-category">Kabaddi</p>
+                        <h1>Trust the process: Puneri Paltan lifts PKL title on the back of youth power</h1>
+                        <p>
+                            A youthful Puneri Paltan defeated Haryana Steelers in the Pro Kabaddi League (PKL) season 10 final to become the champion for the first time.
+                    </article>
+                </a>
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/ipl.jpg" alt="" />
+                    <article>
+                        <p class="ipl-category">IPL</p>
+                        <h1>Chennai to host IPL 2024 final on May 26</h1>
+                        <p>
+                            Ahmedabad has been named as the venue for the first qualifier on May 21 and the eliminator on May 22, and the other qualifier will be played in Chennai
+                        </p>
+                    </article>
+                    
+                </a>
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/badminton.jpg" alt="" />
+                    <article>
+                        <p class="badminton-category">Badminton</p>
+                        <h1>Spain Masters: Kidambi Srikanth sets sights on another strong performance</h1>
+                        <p>
+                            Kidambi Srikanth and PV Sindhu to lead the Indian contingent at the Spain Masters Super 300 Tournament in Madrid, Spain.
+                        </p>
+                    </article>
+                </a>
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/AFI.jpg" alt="" />
+                    <article>
+                        <p class="athletics-category">Athletics</p>
+                        <h1>Doping at lower level is beyond our control': AFI President Adille Sumariwalla</h1>
+                        <p>
+                            AFI President Adille Sumariwalla asserted that federation is doing their part of raising awareness about doping but lower level athletes are beyond their control.
+                        </p>
+                    </article>
+                </a>
+
+                <a href="http://localhost/sports/login%20system/login_form.php" class="card">
+                    <img src="./images/articles/WWF.jpg" alt="" />
+                    <article>
+                        <p class="wresling-category">Wresling</p>
+                        <h1>Wrestling Federation of India to pursue financial independence if suspension stands</h1>
+                        <p>
+                            Wrestling Federation of India pledges to operate independently if government suspension persists, implementing internal reforms for streamlined governance.
+                        </p>
+                    </article>
+                </a>
+            </div>
+        </div>
+    </section>
+
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="./js/script.js"></script>
+    <script>
+        // Function to redirect to login page
+        function redirectToLogin() {
+            window.location.href = "http://localhost/sports/login%20system/login_form.php";
+        }
+
+        // Function to redirect to signup page
+        function redirectToSignup() {
+            window.location.href = "http://localhost/sports/login%20system/register_form.php";
+        }
+
+    </script>
+</body>
+
+</html>

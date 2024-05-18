@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Add News</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="./css/style.css">
+
+    <style>
+        /* CSS for centering only the "Add News" section */
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "./index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="./index.html" class="current">Home</a>
+                <a href="./html/about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/about.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./html/olympics.html">Olympics</a>
+                        <a href="./html/athletics.html">Athletics</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="auth-buttons">
+                <button class="logout-button" onclick="logout()">Logout</button>
+            </div>
+        </div>
+    </nav>
+
+    <h1><strong>Add News</strong></h1>
+    <form id="newsForm" class="red-theme-form" action="add_news.php" method="post" enctype="multipart/form-data">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required>
+        
+        <label for="brief">Brief:</label>
+        <textarea id="brief" name="brief" rows="1" required></textarea>
+        
+        <label for="description">Description:</label>
+        <textarea id="description" name="description" rows="4" required></textarea>
+        
+        <label for="image">Image:</label>
+        <input type="file" id="image" name="image" accept="image/*" required>
+        
+        <div><button type="submit" class="red-theme-submit-button">Submit</button></div>
+        
+    </form>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+    <script src="./js/script.js"></script>
+    <script>
+        // Function to logout
+        function logout() {
+            window.location.href = "http://localhost/sports/login%20system/login_form.php";
+        }
+    </script>
+</body>
+
+</html>

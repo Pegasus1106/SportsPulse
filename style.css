@@ -1,0 +1,100 @@
+/* ====
+ALL NEWS
+==== */
+
+.all-news-container {
+    max-width: 1100px;
+    padding: 0px 20px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+
+.all-news-article {
+    background-color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+.all-news-article img {
+    width: 100%;
+}
+
+.all-news-article h2 {
+    margin: 10px 0;
+}
+
+.all-news-article p {
+    margin-bottom: 10px;
+}
+
+.read-more-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: red; /* Change background color to red */
+    color: white; /* Change text color to white */
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    border: none; /* Remove border */
+    cursor: pointer; /* Change cursor to pointer */
+}
+
+.read-more-button:hover {
+    background-color: darkred; /* Darken the background color on hover */
+}
+
+
+/* Add News Form */
+.red-theme-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.red-theme-form label {
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+}
+
+.red-theme-form input[type="text"],
+.red-theme-form textarea {
+    width: calc(100% - 16px); /* Adjust for input padding and border */
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+.red-theme-form textarea {
+    height: 100px;
+}
+
+/* Adjust position of submit button */
+.submit-button-wrapper {
+    text-align: center; /* Align button to center */
+    padding-top: 20px; /* Add padding */
+}
+
+.red-theme-submit-button {
+    background-color: #e74c3c; /* Red button */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.red-theme-submit-button:hover {
+    background-color: #c0392b; /* Darker red on hover */
+}
+/* Center the submit button */
+.red-theme-form div {
+    text-align: center;
+    padding: 10px 20px;
+}
