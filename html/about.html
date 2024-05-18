@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>SportsPulse | About</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html" class="current">About</a>
+                <a href="./kabaddi.html">Kabaddi</a>
+                <a href="./ipl.html">IPL</a>
+                <a href="./html/badminton.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+
+    <div class="container">
+        <section class="about">
+            <article>
+                <h1>ABOUT SportsPulse</h1>
+                <p>
+                    SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. From breaking news to in-depth analysis, SportsPulse provides fans with the most up-to-date information on their favorite teams, athletes, and events across a wide range of sports including football, basketball, baseball, soccer, tennis, golf, and more. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+                </p><br>
+                <h3>Frontend Technologies:</h3><br>
+                <ul>
+                    <ul><strong>HTML (HyperText Markup Language):</strong> Provides the structure and content of the web pages.</ul>
+                    <ul><strong>CSS (Cascading Style Sheets):</strong> Used for styling and presentation of the website, including layout, colors, fonts, etc.</ul>
+                    <ul><strong>JavaScript:</strong> Enables interactive features, dynamic content updates, and client-side scripting for enhanced user experience.</ul>
+                </ul><br>
+
+                <h3>Backend Technologies:</h3><br>
+                <ul>
+                    <ul><strong>PHP (Hypertext Preprocessor):</strong> Powers the server-side logic and dynamic content generation. Handles tasks such as user authentication, database interactions, and server communication.</ul>
+                    <ul><strong>MySQL:</strong> A relational database management system used for storing and retrieving data related to articles, user accounts, preferences, etc.</ul>
+                </ul><br>
+
+                <h3>Email Communication:</h3><br>
+                <ul>
+                    <ul><strong>PHPMailer:</strong> A powerful library for sending emails from PHP applications. Used for managing email communication functionalities such as newsletter subscriptions, account verifications, and notifications.</ul>
+                </ul><br>
+
+                <h3>News Integration:</h3><br>
+                <ul>
+                    <ul><strong>News API:</strong> External service/API that provides access to a vast repository of sports news articles, scores, and updates. Utilized to fetch real-time sports news and display it on the website.</ul>
+                </ul><br>
+
+                <h3>Additional Technologies:</h3><br>
+                <ul>
+                    <ul><strong>Server-Side Scripting:</strong> PHP is used for server-side scripting, enabling dynamic content generation and database interactions.</ul>
+                    <ul><strong>Database Management:</strong> MySQL is employed to store and manage data efficiently, including user profiles, article content, and other relevant information.</ul>
+                    <ul><strong>Frontend Frameworks/Libraries:</strong> Frameworks like Bootstrap or libraries like jQuery may be utilized to streamline frontend development, enhance responsiveness, and improve user interface interactions.</ul>
+                </ul><br>
+                <p>
+                    Whether users are avid fans seeking the latest scores or casual enthusiasts looking for engaging sports content, SportsPulse delivers a comprehensive and immersive experience, making it the go-to destination for sports news and updates.
+                </p>
+            </article>
+
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

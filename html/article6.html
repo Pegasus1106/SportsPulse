@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>News Grid | Article</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/badminton.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="article-page">
+            <article>
+                <img src="../images/articles/WWF.jpg" alt="" />
+                <h2>Wrestling Federation of India to pursue financial independence if suspension stands</h2>
+                <div>
+                    <p>
+                        <i class="fas fa-user fa-1x"></i> Written By <span>The Bridge, 31-03-2024</span>
+                    </p>
+                    <p class="sports-category">Wresling</p>
+                </div>
+                <p>
+                    Wrestling Federation of India pledges to operate independently if government suspension persists, implementing internal reforms for streamlined governance.
+                </p>
+                <p>
+                    The Wrestling Federation of India (WFI) has declared its intention to operate without government assistance if its suspension persists as per PTI. Following a Special General Meeting (SGM) held in Noida, the federation has adopted a 'no cost to government' model, signaling its resolve in the face of administrative adversity.
+                <p>
+                    The WFI's stance comes after recent developments saw the International Wrestling Federation (UWW) lift its suspension, coupled with the dissolution of the ad-hoc panel by the Indian Olympic Association (IOA), thereby reinstating elected officials. However, the government's suspension remains a stumbling block.
+                </p>
+                <p>
+                    The WFI's stance comes after recent developments saw the International Wrestling Federation (UWW) lift its suspension, coupled with the dissolution of the ad-hoc panel by the Indian Olympic Association (IOA), thereby reinstating elected officials. However, the government's suspension remains a stumbling block. Amid allegations of rule violations, the government suspended the WFI shortly after the election of Sanjay Singh as president. Despite the UWW's and IOA's actions, the government's stance persists.
+                </p>
+                <p>
+                    Amid allegations of rule violations, the government suspended the WFI shortly after the election of Sanjay Singh as president. Despite the UWW's and IOA's actions, the government's stance persists.
+                </p>
+                <p>
+                    At the heart of the matter lies the funding for wrestlers' training, competitions, and international exposure trips, traditionally provided by the government. Should the WFI proceed with its self-reliant approach, it will undertake the responsibility of organizing national camps independently.
+                </p>
+                <p>
+                    Additionally, the WFI has implemented constitutional amendments aimed at streamlining internal processes. Notably, a shift from a two-thirds majority requirement to a simple majority for certain elected positions has been enacted. Moreover, the federation has removed the stipulation mandating State Olympic Committee recognition for state associations, opting for sole reliance on WFI recognition.
+                </p>
+                <p>
+                    With these changes, the WFI emphasizes adherence to the Sports Code, ensuring transparent and accountable governance across all levels.
+                </p>
+
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

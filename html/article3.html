@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>News Grid | Article</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/badminton.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="article-page">
+            <article>
+                <img src="../images/articles/ipl.jpg" alt="" />
+                <h2>Chennai to host IPL 2024 final on May 26</h2>
+                <div>
+                    <p>
+                        <i class="fas fa-user fa-1x"></i> Written By <span>The Bridge, 24-03-2024</span>
+                    </p>
+                    <p class="sports-category">IPL</p>
+                </div>
+                <p>
+                    Ahmedabad has been named as the venue for the first qualifier on May 21 and the eliminator on May 22, and the other qualifier will be played in Chennai
+                </p>
+                <p>
+                    Chennai is set to host its first IPL final in 12 years, with Chepauk named as the venue for the IPL 2024 title match, to be played on May 26. The MA Chidambaram Stadium, or the Chepauk, the home venue of defending IPL champions Chennai Super Kings, has hosted two previous IPL finals, in 2011 and 2012.                </p>
+                <p>
+                    Chennai will also host the second qualifier on May 24, with the first qualifier on May 21 and the eliminator on May 22 set to take place in Ahmedabad.
+
+                    The second part of the IPL schedule, comprising 52 matches including the playoffs, will begin on April 8, with CSK hosting Kolkata Knight Riders in Chennai. All playoff matches will be evening games, as usual.
+                </p>
+                <p>
+                    As in 2023, the ten teams have been divided across two groups of five each. Each team plays the other four teams in their group twice and four teams in the other group once while playing the remaining team from the other group - picked via a draw - twice.
+
+                    CSK are grouped with 2022 IPL champions Gujarat Titans, Royal Challengers Bengaluru, Sunrisers Hyderabad and Punjab Kings. The second group comprises five-time IPL champions Mumbai Indians along with KKR, Royals, Delhi Capitals and Lucknow Super Giants.                
+                </p>
+                <p>In all, the 2024 league phase will include 11 double-header days, two of which took place on the opening weekend.
+
+                    On February 22, the IPL had released a partial schedule of an initial set of 21 matches from March 22 to April 7. A complete schedule could not be put out since, at the time, the IPL was waiting for the Election Commission of India to announce the dates for the country's general elections, which have since been made public. They will take place in seven phases from April 19 to June 1.
+                </p>
+                <p>
+                    Apart from the main home grounds of the ten teams, the tournament will also travel to Visakhapatnam, Dharamsala and Guwahati, which will host two games each as the respective second home grounds of Delhi Capitals, Punjab Kings and Rajasthan Royals respectively. Guwahati will host the final league game of the season on May 19, between Royals and KKR.
+                </p>
+
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

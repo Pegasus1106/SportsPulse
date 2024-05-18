@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>News Grid | Article</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/badminton.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="article-page">
+            <article>
+                <img src="../images/articles/AFI.jpg" alt="" />
+                <h2>Doping at lower level is beyond our control': AFI President Adille Sumariwalla</h2>
+                <div>
+                    <p>
+                        <i class="fas fa-user fa-1x"></i> Written By <span>The Bridge, 31-03-2024</span>
+                    </p>
+                    <p class="sports-category">Athletics</p>
+                </div>
+                <p>
+                    <b>Delhi</b>: Doping is not a new phenomenon in Indian sports, and athletics is one of the leading sectors when it comes to athletes being caught. Globally, athletics is the sport with the highest number of athletes caught doping.
+                </p>
+                <p>
+                    As per a report by the World Anti-Doping Agency (WADA), Athletics was number one in 2020 with 107 cases at the global level.
+                <p>
+                    Elite Indian athletes like quarter-miler Anjali Devi, Tokyo Olympian racewalker Bhawna Jat, sprinter Dutee Chand, and many others were caught doping in the past year.
+                </p>
+                <h2>Doping at the grassroots beyond control</h2>
+                <p>
+                    "Doping is a very serious menace for Indian athletics and there are mainly two reasons for it. The main reason is that it starts at the lowest level," Athletics Federation of India (AFI) president Adille Sumariwalla told The Bridge on the sidelines of the first Relay Open Carnival last week.
+                </p>
+                <p>
+                    "At the district level and U-14 level, coaches are encouraging it for quick results. It is beyond the control of the Athletics Federation of India and it all depends on the state federations and district bodies to control this," he added further.
+                </p>
+                <p>
+                    Athletics tournaments at the state and district level in India are notorious for doping. One such case came last year when all the participants of the 100m race in a Delhi state tournament ran away after hearing about the presence of National Anti-Doping Agency (NADA) officials.
+                </p>
+                <p>
+                    In another similar incident, The Bridge found multiple syringes and vials of medicine at the venue of a Haryana State Athletics meet in Rohtak.
+                </p>
+                <p>
+                    Sumariwalla believes that they are fighting the menace with the means available to them.
+                </p>
+                <p>"We have been testing more than in past years. We used to test 100 samples earlier but now the volume has increased and we are testing more than thousands of samples," he explained.</p>
+                <p>As per the AFI president, AFI has a clear and strict policy against doping and the federation keeps a check by raiding national camps and different institutions time and again.</p>
+                <p>However, the lower level of doping is something that remains out of control for the federation and NADA alike.</p>
+
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

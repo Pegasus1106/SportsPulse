@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Sports News</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            
+            
+            
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./kabaddi.html">Kabaddi</a>
+                <a href="./ipl.html">IPL</a>
+                <a href="./badminton.html">Badminton</a>
+                
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="search-bar flex">
+                <input id="search-text" type="text" class="news-input" placeholder="e.g. Science">
+                <button id="search-button" class="search-button">Search</button>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div id="cards-container" class="articles">
+            <!-- News articles will be populated here -->
+        </div>
+        <div class="pagination">
+            <button id="prev-button">Previous Page</button>
+            <button id="next-button">Next Page</button>
+        </div>
+    </div>
+    
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/all.js"></script>
+</body>
+
+</html>

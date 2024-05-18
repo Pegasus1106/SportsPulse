@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>News Grid | Article</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/badminton.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="article-page">
+            <article>
+                <img src="../images/articles/National.jpg" alt="" />
+                <h2>Anas, Vithya, Poovamma and Nirmal shine in inaugural National Open Relay Carnival</h2>
+                <div>
+                    <p>
+                        <i class="fas fa-user fa-1x"></i> Written By <span>The Bridge, 24-03-2024</span>
+                    </p>
+                    <p class="sports-category">Athletics</p>
+                </div>
+                <p>
+                    National Camp A teams dominated the races in men's and women's sections to clinch the gold medals, while Anas, Vithya, Poovamma and Nirmal combined to top the mixed relay event. </p>
+                <p>
+                    National A team comprising Arokia Rajiv, Muhammed Ajmal V, Muhammed Anas Yahiya, and Nirmal Noah Tom clocked 3:05.71 seconds to win the gold medal in the men 4x400 event at the inaugural National Open Relay Carvinal in Chandigarh on Sunday. Amoj, who returned to the competition after missing the 5th India Open 400m competition earlier this month, finished the race for National Camp A. Also following the suit was the women's team. National Team A of Vithya Ramraj, Poovamma, Dandi Jyothika Sri, and Rupal Choudhary clocked a fantastic 3:28.64s to claim the top spot. This was a good time given this was only the second domestic 400m competition.
+                </p><p>
+                    Earlier, Anas, Vithya, Poovamma, and Nirmal combined to clinch the 4x400m mixed Relay final, clocking an impressive time of 3:17.37s. Meanwhile, Reliance won the 4x100m women's relay event, with Sukhi Baskey, Sabita Tappo, Bonita Lakra, and P Sahu clocking 46.89s to win the gold medal.
+
+                </p><p>
+                    In the U20 category, Junior Camp A of Ramol Bhonsle, Abiynaya Rajarajan, Neole Cornelio, and Sakshi Chavan won the women's 4x100 event, clocking an impressive 45.81s ahead of Junior Camp B and Punjab, who clocked 46.81s and Punjab 51.60s, respectively. In the U20 men's section, Vallipi, Mahendra Santa, Karthikeyan S., and D Jayaram ran an impressive race to make a top-of-the-table podium finish with a time of 40.65s.
+                </p>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>

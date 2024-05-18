@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>News Grid | Article</title>
+    <script src="https://kit.fontawesome.com/eaa4609b2f.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <div class="preloader">
+        <div></div>
+        <div>Loading Content!</div>
+    </div>
+
+    <nav>
+        <div class="container">
+            <div class="logo" onclick="redirectToHomePage()">
+                <h1>Sport<span>Pulse</span></h1>
+            </div>
+            <script>
+                function redirectToHomePage() {
+                    window.location.href = "../index.html";
+                }
+            </script>
+            <div class="options">
+                <a href="../index.html">Home</a>
+                <a href="./about.html">About</a>
+                <a href="./html/kabaddi.html">Kabaddi</a>
+                <a href="./html/ipl.html">IPL</a>
+                <a href="./html/about.html">Badminton</a>
+                <div class="dropdown">
+                    <a href="#" class="dropbtn">More</a>
+                    <div class="dropdown-content">
+                        <a href="./olympics.html">Olympics</a>
+                        <a href="./athletics.html">Athletics</a>
+                        
+                    </div>
+                </div>
+                
+            </div>
+
+            <div class="social">
+                <a href="https://web.facebook.com/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+                <a href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-2x"></i></a>
+                <a href="https://www.youtube.com/" target="_blank"><i class="fab fa-youtube fa-2x"></i></a>
+            </div>
+
+            
+        </div>
+    </nav>
+
+    <div class="container">
+        <section class="article-page">
+            <article>
+                <img src="../images/articles/Pkl.jpg" alt="" />
+                <h2>Trust the process: Puneri Paltan lifts PKL title on the back of youth power</h2>
+                <div>
+                    <p>
+                        <i class="fas fa-user fa-1x"></i> Written By <span>The Bridge, 24-03-2024</span>
+                    </p>
+                    <p class="sports-category">Kabaddi</p>
+                </div>
+                <p>
+                    A youthful Puneri Paltan defeated Haryana Steelers in the Pro Kabaddi League (PKL) season 10 final to become the champion for the first time.
+                <p>
+                    As the clock was ticking down on the season ten finale and Puneri Paltan's Mohit Goyat was in the opponent's half, the echoes of the past seasons resonated. Back in season nine, another Puneri Paltan raider Aditya Shinde was trying to battle Jaipur Pink Panthers skipper Sunil Kumar in the final.
+               </p><p>
+                But there was one difference this time as the clock ran down. Puneri Paltan emerged as the champion as the side lifted its first-ever PKL title, becoming the seventh team to win the coveted title. It took ten seasons and a second final for Puneri Paltan, one of the founding teams of the league, to cross the finishing line but everything seemed worth it when its young brigade lifted the trophy.
+
+                </p><p>
+
+                    Led by the home-grown prodigy Aslam Inamdar, Puneri Paltan defeated dark horses Haryana Steelers 28-25 in the final and handed coach Manpreet Singh his third defeat in the final. While the victory came against the backdrop of the team's organised and dedicated effort in the season, beyond the mat, Puneri Paltan reaped the benefits of showing trust in the process and investing in youth.
+                </p>
+
+                <h3>A well-oiled machine</h3>
+                <p>When Puneri Paltan finished second last season, it didn't have substantial reasons to finish at the position. It should have done much better. 
+                </p>    
+                <p>On the day of the deciding clash, Puneri lost to a better team in the form of Jaipur Pink Panthers. After reliving the mercurial Fazel Atrachali, the management went all out against Shadluoi and got him in the auction for a record-breaking sum.</p>
+                <p>
+                    Apart from the auction, the team had retained most of its players from last year.
+                </p>
+                <p>The team functioned like a well-oiled machine with every part working in tandem. Despite being the table toppers at the end of the round-robin stage, Puneri had only one raider and a defender in the top 10.</p>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer">
+                <article>
+                    <div class="logo">
+                        <h2>Sports<span>Pulse</span></h2>
+                    </div>
+                    <p>
+                        SportsPulse is a dynamic sports news website that offers comprehensive coverage of all the latest happenings in the world of sports. Whether you're looking for scores, highlights, trade rumors, or expert commentary, SportsPulse delivers it all with speed, accuracy, and a passion for the game. Stay ahead of the game with SportsPulse.
+
+
+
+                    </p>
+                </article>
+
+                <article>
+                    <h4>EMAIL NEWSLETTER</h4>
+                    <p>Subscribe to our weekly newsletter and stay up to date with each latest updates in Sports.</p>
+                    <form action="submit_email.php" method="post">
+                        <input type="email" id="email" name="email" required>
+                        <button class="subscribe-button" type="submit">Subscribe</button>
+                    </form>
+                </article>
+            </div>
+        </div>
+    </footer>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>
